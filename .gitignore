@@ -1,0 +1,5 @@
+node_modules
+.env
+Notes.md
+combined.log
+src/config/config.json
