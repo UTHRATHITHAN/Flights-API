@@ -1,3 +1,10 @@
+##About this Project
+
+This is a flight booking API build using Node js, Express Js, MySQL, Sequelize ORM.
+
+
+## Initializing the Projects,
+
 1 - `npm i`
 
 2 - .env and add PORT=5000
@@ -13,3 +20,5 @@
 7 - `npx  sequelize db:migrate` ---> Applies the all the pending migrations to the DB.How it know what are the change in the migrations .By using the unique number in front of the migration file.
 
 8 - `npx sequelize db:migrate:undo` ---> To revert the last migrations.
+
+
