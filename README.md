@@ -1,4 +1,4 @@
-##About this Project
+## About this Project
 
 This is a flight booking API build using Node js, Express Js, MySQL, Sequelize ORM.
 
